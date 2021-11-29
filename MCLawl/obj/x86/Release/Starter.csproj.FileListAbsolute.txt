@@ -1,0 +1,14 @@
+C:\Users\nikki\source\repos\MCLawl\MCLawl\bin\Release\MCLawl.exe.config
+C:\Users\nikki\source\repos\MCLawl\MCLawl\bin\Release\MCLawl.exe
+C:\Users\nikki\source\repos\MCLawl\MCLawl\bin\Release\MCLawl.pdb
+C:\Users\nikki\source\repos\MCLawl\MCLawl\bin\Release\MCLawl_.dll
+C:\Users\nikki\source\repos\MCLawl\MCLawl\bin\Release\Meebey.SmartIrc4net.dll
+C:\Users\nikki\source\repos\MCLawl\MCLawl\bin\Release\MySql.Data.dll
+C:\Users\nikki\source\repos\MCLawl\MCLawl\bin\Release\MCLawl_.pdb
+C:\Users\nikki\source\repos\MCLawl\MCLawl\bin\Release\MCLawl_.dll.config
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\Starter.csproj.AssemblyReference.cache
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\Starter.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\Starter.csproj.CoreCompileInputs.cache
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\Starter.csproj.CopyComplete
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\MCLawl.exe
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\MCLawl.pdb

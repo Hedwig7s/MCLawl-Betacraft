@@ -1,0 +1,12 @@
+C:\Users\nikki\source\repos\FROSTEDBUTTS\MCLawl_.dll.config
+C:\Users\nikki\source\repos\FROSTEDBUTTS\MCLawl_.dll
+C:\Users\nikki\source\repos\FROSTEDBUTTS\MCLawl_.pdb
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\MCLawl_.csproj.AssemblyReference.cache
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\MCLawl.Gui.PropertyWindow.resources
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\MCLawl.Gui.UpdateWindow.resources
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\MCLawl.Gui.Window.resources
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\MCLawl_.csproj.GenerateResource.cache
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\MCLawl_.csproj.CoreCompileInputs.cache
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\MCLawl_.csproj.CopyComplete
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\MCLawl_.dll
+C:\Users\nikki\source\repos\MCLawl\MCLawl\obj\x86\Release\MCLawl_.pdb
